@@ -1,1 +1,1 @@
-arch1
+Hola esto es el fichero arch1
