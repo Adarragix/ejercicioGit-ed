@@ -1,1 +1,1 @@
-Hola esto es el fichero arch2
+arch2
